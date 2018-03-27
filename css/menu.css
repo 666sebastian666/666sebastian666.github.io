@@ -22,7 +22,8 @@ nav a{
     border: 1px solid black;
     border-radius: 5px;
     padding: 5px;
-    background-color: #b7251d;
+  /*  background-color: #b7251d; */
+    background-image: url("../img/textur.png");
 }
 
 a:hover{

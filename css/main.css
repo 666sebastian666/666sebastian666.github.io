@@ -42,9 +42,10 @@ section h2{
     text-align: justify;
     margin-left: 5%;
     margin-right: 5%;
-    background-color: #ac1b12;
+  /*  background-color: rgba(172,27,18,0.9); */
+    background-image: url("../img/sekt3.png");
     border-radius: 8px;
-    box-shadow: rgba(201,201,201,0.7) 5px 5px;
+    box-shadow:  3px 5px 20px rgba(0,0,0,0.9);
     margin-bottom: 25px;
 
 }
@@ -56,9 +57,9 @@ section h2{
     text-align: justify;
     margin-right: 5%;
     margin-left: 5%;
-    background-color: #b7251d;
+    background-color: rgba(172,27,18,0.9);
     border-radius: 8px;
-    box-shadow: rgba(201,201,201,0.7) 5px 5px;
+    box-shadow:  3px 5px 20px rgba(0,0,0,0.9);
     margin-bottom: 25px;
 }
 
@@ -66,34 +67,34 @@ section h2{
     width: 80%;
     height: auto;
     text-align: justify;
-    background-color: #ac1b12;
+    background-color: rgba(172,27,18,0.9);
     margin-left: auto;
     margin-right: auto;
     border-radius: 8px;
     margin-bottom: 80px;
-    box-shadow: #c9c9c9 5px 5px;
+    box-shadow:  3px 5px 20px rgba(0,0,0,0.9);
 }
 
 .secondS2{
     width:80%;
     height: auto;
     text-align: justify;
-    background-color: #ac1b12;
+    background-color: rgba(172,27,18,0.9);
     margin-left: auto;
     margin-right: auto;
     border-radius: 8px;
     margin-bottom: 80px;
-    box-shadow: #c9c9c9 5px 5px;
+    box-shadow:  3px 5px 20px rgba(0,0,0,0.9);
 }
 
 .thirdS2{
     width:80%;
     height: auto;
     text-align: justify;
-    background-color: #ac1b12;
+    background-color: rgba(172,27,18,0.9);
     margin-left: auto;
     margin-right: auto;
-    box-shadow: #c9c9c9 5px 5px;
+    box-shadow:  3px 5px 20px rgba(0,0,0,0.9);
     border-radius: 8px;
 }
 
@@ -112,13 +113,12 @@ section h2{
 
 footer{
     width: 100%;
-    position: relative;
+    height: 20px;
     display: inline-block;
-    font-size: 20px;
+    font-size: 0.9em;
     color: #ededc2;
     background-color: rgba(0,0,0,0.5);
     text-align: center;
-    margin-top: 10px;
 }
 
 
