@@ -180,7 +180,6 @@ a img {
     height: 13vw;
     width: 13vw;
     display: block;
-    border-radius: 25px;
 }
 
 #starcraftl{
@@ -189,15 +188,14 @@ a img {
     height: 13vw;
     width: 30vw;
     display: block;
-    border-radius: 25px;
 }
 
 #lollogo{
     margin-right: auto;
     margin-left: auto;
     display: block;
-    height: 14vw;
-    width: 38vw;
+    height: 10vw;
+    width: 34vw;
 
 }
 
@@ -275,6 +273,10 @@ footer{
         text-align: justify;
         margin-left: 0;
         margin-right: 0;
+    }
+
+    .secondS2{
+        text-align: center;
     }
 
     .tournamentO{
